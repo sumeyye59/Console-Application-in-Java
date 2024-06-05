@@ -1,0 +1,49 @@
+Program Çıktısı:
+Sınıf: Kisi
+Kisi
+Parametre: 3 (string, int, double)
+Dönüş Türü: Nesne Adresi
+Kisi
+Parametre: 0
+Dönüş Türü: Nesne Adresi
+getIsim
+Parametre: 0
+Dönüş Türü: string
+getDogumYili
+Parametre: 0
+Dönüş Türü: int
+getKilo
+Parametre: 0
+Dönüş Türü: double
+YemekYe
+Parametre: 1 (double)
+Dönüş Türü: void
+Kos
+Parametre: 1 (double)
+Dönüş Türü: void
+Sınıf: Arac
+Arac
+Parametre: 4 (string, int, double, double)
+Dönüş Türü: Nesne Adresi
+Arac
+Parametre: 0
+Dönüş Türü: Nesne Adresi
+Sur
+Parametre: 1 (double)
+Dönüş Türü: void
+~Arac
+Parametre: 0
+Dönüş Türü: void
+Sınıf: Tekne
+Tekne
+Parametre: 3 (Kisi*, double, MALZEME)
+Dönüş Türü: Nesne Adresi
+Tekne
+Parametre: 0
+Dönüş Türü: Nesne Adresi
+MalzemeToString
+Parametre: 0
+Dönüş Türü: string
+operator<<
+Parametre: 2
+Dönüş Türü: ostream&

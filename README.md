@@ -7,6 +7,5 @@ parçalanacaktır.
 - Her public fonksiyonun kaç parametre aldığı ve türlerinin ne olduğu ve ne türden bir şey
 döndürdüğü yazılacak.
 - Kalıtım alınan sınıflar ve kaç kez alındıkları yazılacaktır.
-- Örnek Program.cpp dosyasının içeriği ve çıktısı images klasorundadir.
 
 
